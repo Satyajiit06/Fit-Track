@@ -1,8 +1,6 @@
-# 🏋️‍♂️ FitnessTrack
+# 🏋️‍♂️ FitTrack
 
-FitnessTrack is a modern fitness tracking web application that helps users manage their daily workouts and track exercise routines. Built with the MERN stack (MongoDB, Express.js, React, Node.js), it offers user-friendly interfaces for creating, updating, and monitoring workout progress.
-
-![FitnessTrack Preview](https://github.com/rishavchanda/FItnessTrack/raw/main/preview.png)
+FitTrack is a modern fitness tracking web application that helps users manage their daily workouts and track exercise routines. Built with the MERN stack (MongoDB, Express.js, React, Node.js), it offers user-friendly interfaces for creating, updating, and monitoring workout progress.
 
 ## 🚀 Features
 
@@ -23,15 +21,15 @@ FitnessTrack is a modern fitness tracking web application that helps users manag
 ## 📂 Project Structure
 
 \`\`\`
-FItnessTrack/
-├── client/               # React frontend
-│   ├── src/
-│   ├── public/
-├── server/               # Node.js + Express backend
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── config/
+FitTrack/
+├── client/ # React frontend
+│ ├── src/
+│ ├── public/
+├── server/ # Node.js + Express backend
+│ ├── controllers/
+│ ├── models/
+│ ├── routes/
+│ ├── config/
 ├── .gitignore
 ├── README.md
 └── package.json
@@ -48,8 +46,8 @@ FItnessTrack/
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/rishavchanda/FItnessTrack.git
-   cd FItnessTrack
+   git clone https://github.com/Satyajiit06/Fit-Track.git
+   cd FitTrack
    \`\`\`
 
 2. Set up the backend:
@@ -101,7 +99,3 @@ Contributions are welcome! Feel free to fork the project, make improvements, and
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
-## 🙌 Acknowledgements
-
-Thanks to all the contributors and open-source libraries that made this project possible.
