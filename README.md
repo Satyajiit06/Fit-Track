@@ -2,8 +2,6 @@
 
 FitnessTrack is a modern fitness tracking web application that helps users manage their daily workouts and track exercise routines. Built with the MERN stack (MongoDB, Express.js, React, Node.js), it offers user-friendly interfaces for creating, updating, and monitoring workout progress.
 
-![FitnessTrack Preview](https://github.com/rishavchanda/FItnessTrack/raw/main/preview.png)
-
 ## 🚀 Features
 
 - 🧑‍💻 **User Authentication**: Secure signup and login using JWT.
