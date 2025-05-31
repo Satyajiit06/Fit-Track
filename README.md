@@ -16,7 +16,6 @@ FitTrack is a modern fitness tracking web application that helps users manage th
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Token)
-- **Hosting**: *(Add hosting platforms if deployed — e.g., Vercel, Render)*
 
 ## 📂 Project Structure
 
